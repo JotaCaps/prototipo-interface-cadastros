@@ -34,7 +34,7 @@
 
 # Prototipação:
 
-![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipo-home-top.png)
+![Prototipação-baixo-nível-Home](Documentação/IMG_5650.PNG)
 
 
 
