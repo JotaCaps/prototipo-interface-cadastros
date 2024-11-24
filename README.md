@@ -30,7 +30,7 @@
 
 # Prototipação da tela inicial:
 
-![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipacao-baixo-nivel.png)
+![Prototipação-baixo-nível-Home](Documentação/Prototipação-baixo-nível-Home)
 
 # Prototipação:
 
